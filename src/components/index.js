@@ -11,6 +11,8 @@ import Ball from './Ball';
 import Works from './Works';
 import Computers from './Computers';
 import Stars from './Stars';
+import { Canvas } from 'react-three-fiber';
+import { OrbitControls } from 'drei';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 

@@ -15,6 +15,8 @@ import { Canvas } from 'react-three-fiber';
 import { OrbitControls } from 'drei';
 import Earth from './Earth';
 import Ball from './Ball';
+import Computers from './Computers';
+import Stars from './Stars';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
 
